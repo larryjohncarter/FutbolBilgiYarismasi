@@ -1,0 +1,1508 @@
+{
+  "Question": [
+    {
+      "id": "1",
+      "question": "1969-70 sezonunda “en az gol yiyen ve şampiyon olan takım hangisidir? ",
+      "answers": [
+        "Fenerbahçe ",
+        "Galatasaray ",
+        "Trabzonspor",
+        "Beşiktaş"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "1997-1998 yılında Galatasaray, en çok gol yiyen şampiyon takim olarak tarihe gecti. Kaç gol yediler?",
+      "answers": [
+        43,
+        40,
+        67,
+        39
+      ]
+    },
+    {
+      "id": "3",
+      "question": "Lig tarihinde yenilgisiz tek şampiyon olan Beşiktaş, hangi sezonda şampiyon olmuştur?",
+      "answers": [
+        "1991-1992",
+        "1982-1983",
+        "2000-2001",
+        "1972-1973"
+      ]
+    },
+    {
+      "id": "4",
+      "question": "Türk A Milli Takımın'da en genç yaşta oynayan futbolcu, kimdir?",
+      "answers": [
+        "Nuri Şahin",
+        "Hakan Şükür",
+        "Hasan Ali Yıldırım",
+        "Volkan Demirel"
+      ]
+    },
+    {
+      "id": "5",
+      "question": "2002 Dünya Kupasında, Türkiye kaçınçı oldu?",
+      "answers": [
+        "Üçünçü",
+        "Birinci",
+        "İkinci",
+        "Beşinçi"
+      ]
+    },
+    {
+      "id": "6",
+      "question": "Trabzonspor, hangi sezonda sadece 25 gol atarak şampiyon oldu? ",
+      "answers": [
+        "1979-1980",
+        "1982-1983",
+        "1969-1970",
+        "1993-1994"
+      ]
+    },
+    {
+      "id": "7",
+      "question": "Türk Milli Takımının ilk futbol maçı, hangi şehirde oynanmıştır?",
+      "answers": [
+        "Selanik",
+        "İstanbul",
+        "Ankara",
+        "Antalya"
+      ]
+    },
+    {
+      "id": "8",
+      "question": "Türk futbol tarihindeki ilk profesyonel futbolcu kimdir? ",
+      "answers": [
+        "Vahap Özaltay ",
+        "Fuat Hüsnü Kayacan ",
+        "Mehmet Ali",
+        "Reşat Danyal"
+      ]
+    },
+    {
+      "id": "9",
+      "question": "Türkiye'de futbol hangi yüzyılda başlanmıştır?  ",
+      "answers": [
+        "19. yüzyıl",
+        "18. yüzyıl",
+        "20. yüzyıl",
+        "17. yüzyıl"
+      ]
+    },
+    {
+      "id": "10",
+      "question": "1901 yılında kurulan ve aynı yıl kapatılan ilk futbol kulübü hangisidir? ",
+      "answers": [
+        "Black Stockings FC",
+        "Moda FC ",
+        "Club Smyrna",
+        "Cadi-keuy Football Club"
+      ]
+    },
+    {
+      "id": "11",
+      "question": "Galatasaray Futbol Kulübü, hangı yıl kurulmuştur? ",
+      "answers": [
+        1905,
+        1907,
+        1903,
+        1904
+      ]
+    },
+    {
+      "id": "12",
+      "question": "Fenerbahçe Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1907,
+        1905,
+        1903,
+        1908
+      ]
+    },
+    {
+      "id": "13",
+      "question": "Beşiktaş Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1903,
+        1907,
+        1905,
+        1902
+      ]
+    },
+    {
+      "id": "14",
+      "question": "Türk milli takımı, 26 Ekim, 1923'de ilk maçını yapmıştır. Hangi takımla oynamıştır?",
+      "answers": [
+        "Romanya",
+        "İngiltere",
+        "Fransa",
+        "İspanya"
+      ]
+    },
+    {
+      "id": "15",
+      "question": "Türk milli takımının ilk iki golünü, kim atmıştır?",
+      "answers": [
+        "Zeki Rıza Sporel",
+        "Vahap Özaltay",
+        "Fuat Hüsnü Kayancan",
+        "Mehmet Ali"
+      ]
+    },
+    {
+      "id": "16",
+      "question": "Yurtdışında ilk futbol maçı yapan Türk takımı, hangisidir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktas",
+        "Moda FC"
+      ]
+    },
+    {
+      "id": "17",
+      "question": "Türk A Milli takımı hangi yıl kurulmuştur?",
+      "answers": [
+        1923,
+        1911,
+        1924,
+        1919
+      ]
+    },
+    {
+      "id": "18",
+      "question": "Türk A Milli takımı, 1924 Paris Olimpiyat oyunlarında ilk macini hangi ülkenin takımı ile yapmıştır? ",
+      "answers": [
+        "Çekoslovakya",
+        "İspanya",
+        "İtalya",
+        "Amerika"
+      ]
+    },
+    {
+      "id": "19",
+      "question": "En fazla milli takım formasını giyen Rüştü Reçber kaç maça çıkmıştır? ",
+      "answers": [
+        "120 Maç",
+        "150 Maç",
+        "90 Maç",
+        "119 Maç"
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Türk Futbol Federesyonun ilk başkanı kimdir?",
+      "answers": [
+        "Yusuf Ziya Öniş",
+        "Hamdi Emin Çap",
+        "Sedat Rıza İstek",
+        "Sadi Karsan"
+      ]
+    },
+    {
+      "id": "21",
+      "question": "1959-60 sezonunda 13 maçı üst üste kazanan takım hangisidir?  ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Cumhurbaşkanlığı Kupasını ilk kazanan takım hangisidir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "23",
+      "question": "Başbakanlık Kupasını ilk kazanan takım hangisidir? ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "24",
+      "question": "Türkiye Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "25",
+      "question": "Turk Futbol tarihinde ilk profesyönel ligi kazanan takım hangisidir? ",
+      "answers": [
+        "Fenerbahçe",
+        "Galatasaray",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "26",
+      "question": "17 Mayıs 2000 tarihinde Galatasaray'ın kazandığı avrupa kupası hangisiydi? ",
+      "answers": [
+        "UEFA Kupası",
+        "Şampiyonlar Ligi",
+        "Süper Lig",
+        "PTT Ligi"
+      ]
+    },
+    {
+      "id": "27",
+      "question": "Fenerbahçenin en iyi avereja ulasarak şampiyon olduğu sezon hangi sezondu? ",
+      "answers": [
+        "1988-89",
+        "1987-88",
+        "2000-2001",
+        "1999-2000"
+      ]
+    },
+    {
+      "id": "28",
+      "question": "Süper ligin ilk gol kralı olan Metin Oktay 1959'da 15 maçta kaç gol atmıştır?  ",
+      "answers": [
+        "11 gol",
+        "20 gol",
+        "9 gol",
+        "12 gol"
+      ]
+    },
+    {
+      "id": "29",
+      "question": "Süper ligin en çok gol atan oyuncusu 249 golle kimdir? ",
+      "answers": [
+        "Hakan Şükür",
+        "Aykut Kocaman",
+        "Alex De Souza",
+        "Burak Yılmaz"
+      ]
+    },
+    {
+      "id": "30",
+      "question": "Bir sezonda en çok gol atan oyuncu Tanju Çolak, kaç gol atmıştır?",
+      "answers": [
+        "39 gol",
+        "40 gol",
+        "59 gol",
+        "38 gol"
+      ]
+    },
+    {
+      "id": "31",
+      "question": "4 büyüklerle oynayan ilk futbolcu kimdir?",
+      "answers": [
+        "Sergen Yalçın",
+        "Burak Yılmaz",
+        "Hakan Şükür",
+        "Tanju Çolak"
+      ]
+    },
+    {
+      "id": "32",
+      "question": "Galatasaray 1962-63 sezonunda iki aşamalı olarak gerçekleştirilen ligde, kaç gol atmıştır?",
+      "answers": [
+        "105 gol",
+        "60 gol",
+        "104 gol",
+        "100 gol"
+      ]
+    },
+    {
+      "id": "33",
+      "question": "En çok şampiyonluk gören teknik direktor kimdir?",
+      "answers": [
+        "Fatih Terim",
+        "Aykut Kocaman",
+        "Ersun Yanal",
+        "Şenol Güneş"
+      ]
+    },
+    {
+      "id": "34",
+      "question": "Fenerbahçe Süper ligde kaç şampiyonluk kazanmıştır?",
+      "answers": [
+        "19 Şampiyonluk",
+        "16 Şampiyonluk",
+        "10 Şampiyonluk",
+        "20 Şampiyonluk"
+      ]
+    },
+    {
+      "id": "35",
+      "question": "Fenerbahçe tarihinde en çok maça çıkan oyuncu kimdir?",
+      "answers": [
+        "Müjdat Yetkiner",
+        "Volkan Demirel",
+        "Rüştü Reçber",
+        "Şeref Has"
+      ]
+    },
+    {
+      "id": "36",
+      "question": "Fenerbahçe tarihinde en çok gol atan oyuncu kimdir?",
+      "answers": [
+        "Lefter Küçükandonyadis",
+        "Aykut Kocaman",
+        "Semih Şentürk",
+        "Melih Kotanca"
+      ]
+    },
+    {
+      "id": "37",
+      "question": "Fenerbahçenin en pahalı transferi kimdir?",
+      "answers": [
+        "Daniel Guiza",
+        "Moussa Sow",
+        "Raul Meireles",
+        "Nicolas Anelka"
+      ]
+    },
+    {
+      "id": "38",
+      "question": "Fenerbahçe'de en pahalı satılan transferi Moussa Sow, kaç paraya satılmıştır?",
+      "answers": [
+        "16M € ",
+        "21M €",
+        "12M €",
+        "22M €"
+      ]
+    },
+    {
+      "id": "39",
+      "question": "Fenerbahçe'nin ilk teknik direktörü kimdir?",
+      "answers": [
+        "Hüseyin Dalaklı",
+        "Didi",
+        "Aykut Kocaman",
+        "Ignace Molnar"
+      ]
+    },
+    {
+      "id": "40",
+      "question": "Fenerbahçe bir sezonda en az 6 gol yediği sezon, hangi sezondur?",
+      "answers": [
+        "1969-70",
+        "1990-91",
+        "1976-77",
+        "1977-78"
+      ]
+    },
+    {
+      "id": "41",
+      "question": "Fenerbahçe tarihinde, bir sezonda en fazla kaç puan almıştır?",
+      "answers": [
+        "93 puan",
+        "100 puan",
+        "69 puan",
+        "29 puan"
+      ]
+    },
+    {
+      "id": "42",
+      "question": "14 Şubat 2009 da Fenerbahçe en farklı lig mağlubiyetini 7 gol yiyerek yaşadı, 7 gölü atan takım hangisiydi?",
+      "answers": [
+        "Haccettepe",
+        "Karabükspor",
+        "Galatasaray",
+        "Bursaspor"
+      ]
+    },
+    {
+      "id": "43",
+      "question": "Fenerbahçe 1980-81 sezonunda oynadığı 30 maçta kaç puan toplayabildi?",
+      "answers": [
+        "29 puan",
+        "30 puan",
+        "49 puan",
+        "14 puan"
+      ]
+    },
+    {
+      "id": "44",
+      "question": "Fenerbahçe hangi sezonda hiç gol yemeden şampiyon olarak bir dünya rekoru kırmıştır?",
+      "answers": [
+        "1922-23",
+        "1907-1908",
+        "1956-57",
+        "1993-94"
+      ]
+    },
+    {
+      "id": "45",
+      "question": "Galatasaray tarihinde en golcü futbolcu kimdir?",
+      "answers": [
+        "Metin Oktay",
+        "Hakan Şükür",
+        "Arif Erdem",
+        "Gündüz Kılıç"
+      ]
+    },
+    {
+      "id": "46",
+      "question": "Galatasaray tarihinde 2. en çok forma giyen kimdir?",
+      "answers": [
+        "Hakan Şükür",
+        "Bülent Korkmaz",
+        "Cüneyt Tanmam",
+        "Fatih Terim"
+      ]
+    },
+    {
+      "id": "47",
+      "question": "Galatasaray'ın en golcü yabancı futbolcusu kimdi? ",
+      "answers": [
+        "Gheorghe Hagi",
+        "Tarik Hodžić",
+        "Younès Belhanda",
+        "Mário Jardel de Almeida Ribeiro"
+      ]
+    },
+    {
+      "id": "48",
+      "question": "Beşiktaş'ın Süper lig tarihinde en çok maça çıkan teknik direktörü kimdir?",
+      "answers": [
+        "Gordon Milne",
+        "Şenol Güneş",
+        "Christoph Daum",
+        "Mircea Lucescu"
+      ]
+    },
+    {
+      "id": "49",
+      "question": "Beşiktaş'ın 1962-1968 sezonlari arasinda kaptanlığı elinde tutan oyuncu kimdir?",
+      "answers": [
+        "Necmi Mutlu",
+        "Zekeriya Alp",
+        "Rasim Kara",
+        "Nazmi Bilge"
+      ]
+    },
+    {
+      "id": "50",
+      "question": "Beşiktaş, dünyanın en yükses ses seviyeli maç rekorunu kırdı. 2007-08 sezonunda Liverpool'la oynanan maçtaki ses seviyesi kaçtır?",
+      "answers": [
+        "132 dB",
+        "145 dB",
+        "120 dB",
+        "160 dB"
+      ]
+    }
+  ],
+  "UEFAKupasi": [
+    {
+      "id": "1",
+      "question": "“Bu bir test sorudur? ",
+      "answers": [
+        "Inanmam ",
+        "Aman ",
+        "WOO",
+        "LOL"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "1997-1998 yılında Galatasaray, en çok gol yiyen şampiyon oldu. Kaç gol yediler?",
+      "answers": [
+        43,
+        40,
+        67,
+        39
+      ]
+    },
+			{
+				"id": "3",
+				"question": "Lig tarihinde yenilgisiz tek şampiyon olan Beşiktaş, hangi sezonda şampiyon olmuştur?",
+				"answers": [
+					"1991-1992",
+					"1982-1983",
+					"2000-2001",
+					"1972-1973"
+				]
+			},
+    {
+      "id": "4",
+      "question": "Türk A Milli Takımın'da en genç yaşta oynayan futbolcu, kimdir?",
+      "answers": [
+        "Nuri Şahin",
+        "Hakan Şükür",
+        "Hasan Ali Yıldırım",
+        "Volkan Demirel"
+      ]
+    },
+    {
+      "id": "5",
+      "question": "2002 Dünya Kupasında, Türkiye kaçınçı oldu?",
+      "answers": [
+        "Üçünçü",
+        "Birinci",
+        "İkinci",
+        "Beşinçi"
+      ]
+    },
+    {
+      "id": "6",
+      "question": "Trabzonspor, hangi sezon sadece 25 gol atarak şampiyon olur? ",
+      "answers": [
+        "1979-1980",
+        "1982-1983",
+        "1969-1970",
+        "1993-1994"
+      ]
+    },
+    {
+      "id": "7",
+      "question": "Türkiye'de ilk futbol maçı, hangi şehirde oynanmıştır?",
+      "answers": [
+        "Selanik",
+        "İstanbul",
+        "Ankara",
+        "Antalya"
+      ]
+    },
+    {
+      "id": "8",
+      "question": "Türkiye futbol tarihindeki ilk profesyonel futbolcu kimdir? ",
+      "answers": [
+        "Vahap Özaltay ",
+        "Fuat Hüsnü Kayacan ",
+        "Mehmet Ali",
+        "Reşat Danyal"
+      ]
+    },
+    {
+      "id": "9",
+      "question": "Türkiye'de hangi yüzyılında futbol oynanmaya başlanmıştır?  ",
+      "answers": [
+        "19. yüzyıl",
+        "18. yüzyıl",
+        "20. yüzyıl",
+        "17. yüzyıl"
+      ]
+    },
+    {
+      "id": "10",
+      "question": "1901 yılında kurulan ve aynı yıl kapatılan ilk futbol takım kulübü hangisidir? ",
+      "answers": [
+        "Black Stockings FC",
+        "Moda FC ",
+        "Club Smyrna",
+        "Cadi-keuy Football Club"
+      ]
+    },
+    {
+      "id": "11",
+      "question": "Galatasaray Futbol Kulübü, hangı yıl kurulmuştur? ",
+      "answers": [
+        1905,
+        1907,
+        1903,
+        1904
+      ]
+    },
+    {
+      "id": "12",
+      "question": "Fenerbahçe Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1907,
+        1905,
+        1903,
+        1908
+      ]
+    },
+    {
+      "id": "13",
+      "question": "Beşiktaş Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1903,
+        1907,
+        1905,
+        1902
+      ]
+    },
+    {
+      "id": "14",
+      "question": "Türkiye milli takımı, Ekim 26, 1923'de ilk maçını yapmıştır. Hangi takımla oynamıştır?",
+      "answers": [
+        "Romanya",
+        "İngiltere",
+        "Fransa",
+        "İspanya"
+      ]
+    },
+    {
+      "id": "15",
+      "question": "Türkiye milli takımın ilk iki golünü, kim atmıştır?",
+      "answers": [
+        "Zeki Rıza Sporel",
+        "Vahap Özaltay",
+        "Fuat Hüsnü Kayancan",
+        "Mehmet Ali"
+      ]
+    },
+    {
+      "id": "16",
+      "question": "Yurtdışında ilk futbol maçı yapan Türk takımı, hangisidir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktas",
+        "Moda FC"
+      ]
+    },
+    {
+      "id": "17",
+      "question": "Türkiye A Milli takımı hangi yıl kurulmuştur?",
+      "answers": [
+        1923,
+        1911,
+        1924,
+        1919
+      ]
+    },
+    {
+      "id": "18",
+      "question": "Türkiye A Milli takımı, 1924 Paris Olimpiyat oyunların'da kimle maç yapmıştır? ",
+      "answers": [
+        "Çekoslovakya",
+        "İspanya",
+        "İtalya",
+        "Amerika"
+      ]
+    },
+    {
+      "id": "19",
+      "question": "En çok milli takımda oynayan Rüştü Reçber kaç maça çıkmıştır? ",
+      "answers": [
+        "120 Maç",
+        "150 Maç",
+        "90 Maç",
+        "119 Maç"
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Türkiye Futbol Federesyonun ilk başkanı kimdir?",
+      "answers": [
+        "Yusuf Ziya Öniş",
+        "Hamdi Emin Çap",
+        "Sedat Rıza İstek",
+        "Sadi Karsan"
+      ]
+    },
+    {
+      "id": "21",
+      "question": "1959-60 sezonunda 13 maç üst üste kazanan hangi takımdır?  ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Cumhurbaşkanlığı Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "23",
+      "question": "Başbakanlık Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "24",
+      "question": "Türkiye Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "25",
+      "question": "Profesyönel ligin ilk kazanan takım kimdir? ",
+      "answers": [
+        "Fenerbahçe",
+        "Galatasaray",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "26",
+      "question": "17 Mayıs 2000 tarihinde Galatasaray'ın kazandığı avrupa kupası, hangisidir? ",
+      "answers": [
+        "UEFA Kupası",
+        "Şampiyonlar Ligi",
+        "Süper Lig",
+        "PTT Ligi"
+      ]
+    },
+    {
+      "id": "27",
+      "question": "En iyi avereja sahip şampiyon Fenerbahçe hangi sezonda şampiyon olmuştur? ",
+      "answers": [
+        "1988-89",
+        "1987-88",
+        "2000-2001",
+        "1999-2000"
+      ]
+    },
+    {
+      "id": "28",
+      "question": "Süper ligin ilk gol krallı olan Metin Oktay 1959'da 15 maçta, kaç gol atmıştır?  ",
+      "answers": [
+        "11 gol",
+        "20 gol",
+        "9 gol",
+        "12 gol"
+      ]
+    },
+    {
+      "id": "29",
+      "question": "Süper ligte en çok gol atan oyuncusu 249 golle kimdir? ",
+      "answers": [
+        "Hakan Şükür",
+        "Aykut Kocaman",
+        "Alex De Souza",
+        "Burak Yılmaz"
+      ]
+    },
+    {
+      "id": "30",
+      "question": "Bir sezon da en çok gol atan oyuncu Tanju Çolak, kaç gol atmıştır?",
+      "answers": [
+        "39 gol",
+        "40 gol",
+        "59 gol",
+        "38 gol"
+      ]
+    },
+    {
+      "id": "31",
+      "question": "4 büyüklerle oynayan ilk futbolcu kimdir?",
+      "answers": [
+        "Sergen Yalçın",
+        "Burak Yılmaz",
+        "Hakan Şükür",
+        "Tanju Çolak"
+      ]
+    },
+    {
+      "id": "32",
+      "question": "Galatasaray 1962-63 sezonunda iki aşamalı olarak gerçekleştirilen ligde, kaç gol atmıştır?",
+      "answers": [
+        "105 gol",
+        "60 gol",
+        "104 gol",
+        "100 gol"
+      ]
+    },
+    {
+      "id": "33",
+      "question": "En çok şampiyonluk gören teknik direktor, kimdir?",
+      "answers": [
+        "Fatih Terim",
+        "Aykut Kocaman",
+        "Ersun Yanal",
+        "Şenol Güneş"
+      ]
+    },
+    {
+      "id": "34",
+      "question": "Fenerbahçe kaç kere Süper lig'i kazanmıştır?",
+      "answers": [
+        "19 şampiyonluk",
+        "16 şampiyonluk",
+        "10 şampiyonluk",
+        "20 şampiyonluk"
+      ]
+    },
+    {
+      "id": "35",
+      "question": "Fenerbahçe tarihinde en çok maça çıkan oyuncu, kimdir?",
+      "answers": [
+        "Müjdat Yetkiner",
+        "Volkan Demirel",
+        "Rüştü Reçber",
+        "Şeref Has"
+      ]
+    },
+    {
+      "id": "36",
+      "question": "Fenerbahçe tarihinde en çok gol atan oyuncu, kimdir?",
+      "answers": [
+        "Lefter Küçükandonyadis",
+        "Aykut Kocaman",
+        "Semih Şentürk",
+        "Melih Kotanca"
+      ]
+    },
+    {
+      "id": "37",
+      "question": "Fenerbahçenin en pahalı transferi, kimdir?",
+      "answers": [
+        "Daniel Guiza",
+        "Moussa Sow",
+        "Raul Meireles",
+        "Nicolas Anelka"
+      ]
+    },
+    {
+      "id": "38",
+      "question": "Fenerbahçe'de en pahalı satılan transferi Moussa Sow, kaç paraya satılmıştır?",
+      "answers": [
+        "16M € ",
+        "21M €",
+        "12M €",
+        "22M €"
+      ]
+    },
+    {
+      "id": "39",
+      "question": "Fenerbahçe'nin ilk teknik direktor'u kimdir?",
+      "answers": [
+        "Hüseyin Dalaklı",
+        "Didi",
+        "Aykut Kocaman",
+        "Ignace Molnar"
+      ]
+    },
+    {
+      "id": "40",
+      "question": "Fenerbaçhe bir sezonda en az 6 gol yedigi sezon, hangi sezondur?",
+      "answers": [
+        "1969-70",
+        "1990-91",
+        "1976-77",
+        "1977-78"
+      ]
+    },
+    {
+      "id": "41",
+      "question": "Fenerbahçe bir sezonda en fazla kaç puan almıştır?",
+      "answers": [
+        "93 puan",
+        "100 puan",
+        "69 puan",
+        "29 puan"
+      ]
+    },
+    {
+      "id": "42",
+      "question": "Fenerbahçenin en farklı lig mağlubiyeti 14 Şubat 2009'da 7-0 olarak, hangi takımı yenmiştir?",
+      "answers": [
+        "Haccettepe",
+        "Karabükspor",
+        "Galatasaray",
+        "Bursaspor"
+      ]
+    },
+    {
+      "id": "43",
+      "question": "Fenerbahçe 1980-81 sezonda oynanan 30 maçtan, kaç puan almıştır?",
+      "answers": [
+        "29 puan",
+        "30 puan",
+        "49 puan",
+        "14 puan"
+      ]
+    },
+    {
+      "id": "44",
+      "question": "Fenerbahçe hangi sezonda hiç gol yemeden şampiyon olarak bir dünya rekoru kırmıştır?",
+      "answers": [
+        "1922-23",
+        "1907-1908",
+        "1956-57",
+        "1993-94"
+      ]
+    },
+    {
+      "id": "45",
+      "question": "Galatasaray tarihinde en golcü futbolcu kimdir?",
+      "answers": [
+        "Metin Oktay",
+        "Hakan Şükür",
+        "Arif Erdem",
+        "Gündüz Kılıç"
+      ]
+    },
+    {
+      "id": "46",
+      "question": "Galatasaray tarihinde 2. en çok forma kiyen kimdir?",
+      "answers": [
+        "Hakan Şükür",
+        "Bülent Korkmaz",
+        "Cüneyt Tanmam",
+        "Fatih Terim"
+      ]
+    },
+    {
+      "id": "47",
+      "question": "Galatasaray'ın en golcü yabancı futbolcusu, hangi oyuncudur? ",
+      "answers": [
+        "Gheorghe Hagi",
+        "Tarik Hodžić",
+        "Younès Belhanda",
+        "Mário Jardel de Almeida Ribeiro"
+      ]
+    },
+    {
+      "id": "48",
+      "question": "Beşiktaş'ın Süper lig tarihinde en çok maça çıkan teknik direktörü kimdir?",
+      "answers": [
+        "Gordon Milne",
+        "Şenol Güneş",
+        "Christoph Daum",
+        "Mircea Lucescu"
+      ]
+    },
+    {
+      "id": "49",
+      "question": "Beşiktaş'ın 1962-1968 sezon aralarında kaptanlığı, hangi oyuncudur?",
+      "answers": [
+        "Necmi Mutlu",
+        "Zekeriya Alp",
+        "Rasim Kara",
+        "Nazmi Bilge"
+      ]
+    },
+    {
+      "id": "50",
+      "question": "Beşiktaş, dünyanın en yükses ses seviyeli maç rekorunu kırdı. 2007-08 sezonunda Liverpool'la oynayan maçtaki, ses seviyesi kaçtır?",
+      "answers": [
+        "132 dB",
+        "145 dB",
+        "120 dB",
+        "160 dB"
+      ]
+    }
+  ],
+  "DunyaFutbolu": [
+    {
+      "id": "1",
+      "question": "“En az gol yiyen şampiyon, hangi takımdır? ",
+      "answers": [
+        "Fenerbahçe ",
+        "Galatasaray ",
+        "Trabzonspor",
+        "Beşiktaş"
+      ]
+    },
+    {
+      "id": "2",
+      "question": "1997-1998 yılında Galatasaray, en çok gol yiyen şampiyon oldu. Kaç gol yediler?",
+      "answers": [
+        43,
+        40,
+        67,
+        39
+      ]
+    },
+    {
+      "id": "3",
+      "question": "Lig tarihinde yenilgisiz tek şampiyon olan Beşiktaş, hangi sezonda şampiyon olmuştur?",
+      "answers": [
+        "1991-1992",
+        "1982-1983",
+        "2000-2001",
+        "1972-1973"
+      ]
+    },
+    {
+      "id": "4",
+      "question": "Türk A Milli Takımın'da en genç yaşta oynayan futbolcu, kimdir?",
+      "answers": [
+        "Nuri Şahin",
+        "Hakan Şükür",
+        "Hasan Ali Yıldırım",
+        "Volkan Demirel"
+      ]
+    },
+    {
+      "id": "5",
+      "question": "2002 Dünya Kupasında, Türkiye kaçınçı oldu?",
+      "answers": [
+        "Üçünçü",
+        "Birinci",
+        "İkinci",
+        "Beşinçi"
+      ]
+    },
+    {
+      "id": "6",
+      "question": "Trabzonspor, hangi sezon sadece 25 gol atarak şampiyon olur? ",
+      "answers": [
+        "1979-1980",
+        "1982-1983",
+        "1969-1970",
+        "1993-1994"
+      ]
+    },
+    {
+      "id": "7",
+      "question": "Türkiye'de ilk futbol maçı, hangi şehirde oynanmıştır?",
+      "answers": [
+        "Selanik",
+        "İstanbul",
+        "Ankara",
+        "Antalya"
+      ]
+    },
+    {
+      "id": "8",
+      "question": "Türkiye futbol tarihindeki ilk profesyonel futbolcu kimdir? ",
+      "answers": [
+        "Vahap Özaltay ",
+        "Fuat Hüsnü Kayacan ",
+        "Mehmet Ali",
+        "Reşat Danyal"
+      ]
+    },
+    {
+      "id": "9",
+      "question": "Türkiye'de hangi yüzyılında futbol oynanmaya başlanmıştır?  ",
+      "answers": [
+        "19. yüzyıl",
+        "18. yüzyıl",
+        "20. yüzyıl",
+        "17. yüzyıl"
+      ]
+    },
+    {
+      "id": "10",
+      "question": "1901 yılında kurulan ve aynı yıl kapatılan ilk futbol takım kulübü hangisidir? ",
+      "answers": [
+        "Black Stockings FC",
+        "Moda FC ",
+        "Club Smyrna",
+        "Cadi-keuy Football Club"
+      ]
+    },
+    {
+      "id": "11",
+      "question": "Galatasaray Futbol Kulübü, hangı yıl kurulmuştur? ",
+      "answers": [
+        1905,
+        1907,
+        1903,
+        1904
+      ]
+    },
+    {
+      "id": "12",
+      "question": "Fenerbahçe Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1907,
+        1905,
+        1903,
+        1908
+      ]
+    },
+    {
+      "id": "13",
+      "question": "Beşiktaş Futbol Kulübü, hangı yıl kurulmuştur?",
+      "answers": [
+        1903,
+        1907,
+        1905,
+        1902
+      ]
+    },
+    {
+      "id": "14",
+      "question": "Türkiye milli takımı, Ekim 26, 1923'de ilk maçını yapmıştır. Hangi takımla oynamıştır?",
+      "answers": [
+        "Romanya",
+        "İngiltere",
+        "Fransa",
+        "İspanya"
+      ]
+    },
+    {
+      "id": "15",
+      "question": "Türkiye milli takımın ilk iki golünü, kim atmıştır?",
+      "answers": [
+        "Zeki Rıza Sporel",
+        "Vahap Özaltay",
+        "Fuat Hüsnü Kayancan",
+        "Mehmet Ali"
+      ]
+    },
+    {
+      "id": "16",
+      "question": "Yurtdışında ilk futbol maçı yapan Türk takımı, hangisidir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktas",
+        "Moda FC"
+      ]
+    },
+    {
+      "id": "17",
+      "question": "Türkiye A Milli takımı hangi yıl kurulmuştur?",
+      "answers": [
+        1923,
+        1911,
+        1924,
+        1919
+      ]
+    },
+    {
+      "id": "18",
+      "question": "Türkiye A Milli takımı, 1924 Paris Olimpiyat oyunların'da kimle maç yapmıştır? ",
+      "answers": [
+        "Çekoslovakya",
+        "İspanya",
+        "İtalya",
+        "Amerika"
+      ]
+    },
+    {
+      "id": "19",
+      "question": "En çok milli takımda oynayan Rüştü Reçber kaç maça çıkmıştır? ",
+      "answers": [
+        "120 Maç",
+        "150 Maç",
+        "90 Maç",
+        "119 Maç"
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Türkiye Futbol Federesyonun ilk başkanı kimdir?",
+      "answers": [
+        "Yusuf Ziya Öniş",
+        "Hamdi Emin Çap",
+        "Sedat Rıza İstek",
+        "Sadi Karsan"
+      ]
+    },
+    {
+      "id": "21",
+      "question": "1959-60 sezonunda 13 maç üst üste kazanan hangi takımdır?  ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Cumhurbaşkanlığı Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "23",
+      "question": "Başbakanlık Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Beşiktaş",
+        "Fenerbahçe",
+        "Galatasaray",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "24",
+      "question": "Türkiye Kupasını ilk kazanan takım kimdir? ",
+      "answers": [
+        "Galatasaray",
+        "Fenerbahçe",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "25",
+      "question": "Profesyönel ligin ilk kazanan takım kimdir? ",
+      "answers": [
+        "Fenerbahçe",
+        "Galatasaray",
+        "Beşiktaş",
+        "Trabzonspor"
+      ]
+    },
+    {
+      "id": "26",
+      "question": "17 Mayıs 2000 tarihinde Galatasaray'ın kazandığı avrupa kupası, hangisidir? ",
+      "answers": [
+        "UEFA Kupası",
+        "şampiyonlar Ligi",
+        "Süper Lig",
+        "PTT Ligi"
+      ]
+    },
+    {
+      "id": "27",
+      "question": "En iyi avereja sahip, şampiyon Fenerbahçe hangi sezonda şampiyon olmuştur? ",
+      "answers": [
+        "1988-89",
+        "1987-88",
+        "2000-2001",
+        "1999-2000"
+      ]
+    },
+    {
+      "id": "28",
+      "question": "Süper ligin ilk gol krallı olan Metin Oktay 1959'da 15 maçta, kaç gol atmıştır?  ",
+      "answers": [
+        "11 gol",
+        "20 gol",
+        "9 gol",
+        "12 gol"
+      ]
+    },
+    {
+      "id": "29",
+      "question": "Süper ligte en çok gol atan oyuncusu 249 golle kimdir? ",
+      "answers": [
+        "Hakan Şükür",
+        "Aykut Kocaman",
+        "Alex De Souza",
+        "Burak Yılmaz"
+      ]
+    },
+    {
+      "id": "30",
+      "question": "Bir sezon da en çok gol atan oyuncu Tanju Çolak, kaç gol atmıştır?",
+      "answers": [
+        "39 gol",
+        "40 gol",
+        "59 gol",
+        "38 gol"
+      ]
+    },
+    {
+      "id": "31",
+      "question": "4 büyüklerle oynayan ilk futbolcu kimdir?",
+      "answers": [
+        "Sergen Yalçın",
+        "Burak Yılmaz",
+        "Hakan Şükür",
+        "Tanju Çolak"
+      ]
+    },
+    {
+      "id": "32",
+      "question": "Galatasaray 1962-63 sezonunda iki aşamalı olarak gerçekleştirilen ligde, kaç gol atmıştır?",
+      "answers": [
+        "105 gol",
+        "60 gol",
+        "104 gol",
+        "100 gol"
+      ]
+    },
+    {
+      "id": "33",
+      "question": "En çok şampiyonluk gören teknik direktor, kimdir?",
+      "answers": [
+        "Fatih Terim",
+        "Aykut Kocaman",
+        "Ersun Yanal",
+        "Şenol Güneş"
+      ]
+    },
+    {
+      "id": "34",
+      "question": "Fenerbahçe kaç kere Süper lig'i kazanmıştır?",
+      "answers": [
+        "19 şampiyonluk",
+        "16 şampiyonluk",
+        "10 şampiyonluk",
+        "20 şampiyonluk"
+      ]
+    },
+    {
+      "id": "35",
+      "question": "Fenerbahçe tarihinde en çok maça çıkan oyuncu, kimdir?",
+      "answers": [
+        "Müjdat Yetkiner",
+        "Volkan Demirel",
+        "Rüştü Reçber",
+        "Şeref Has"
+      ]
+    },
+    {
+      "id": "36",
+      "question": "Fenerbahçe tarihinde en çok gol atan oyuncu, kimdir?",
+      "answers": [
+        "Lefter Küçükandonyadis",
+        "Aykut Kocaman",
+        "Semih Şentürk",
+        "Melih Kotanca"
+      ]
+    },
+    {
+      "id": "37",
+      "question": "Fenerbahçenin en pahalı transferi, kimdir?",
+      "answers": [
+        "Daniel Guiza",
+        "Moussa Sow",
+        "Raul Meireles",
+        "Nicolas Anelka"
+      ]
+    },
+    {
+      "id": "38",
+      "question": "Fenerbahçe'de en pahalı satılan transferi Moussa Sow, kaç paraya satılmıştır?",
+      "answers": [
+        "16M € ",
+        "21M €",
+        "12M €",
+        "22M €"
+      ]
+    },
+    {
+      "id": "39",
+      "question": "Fenerbahçe'nin ilk teknik direktor'u kimdir?",
+      "answers": [
+        "Hüseyin Dalaklı",
+        "Didi",
+        "Aykut Kocaman",
+        "Ignace Molnar"
+      ]
+    },
+    {
+      "id": "40",
+      "question": "Fenerbaçhe bir sezonda en az 6 gol yedigi sezon, hangi sezondur?",
+      "answers": [
+        "1969-70",
+        "1990-91",
+        "1976-77",
+        "1977-78"
+      ]
+    },
+    {
+      "id": "41",
+      "question": "Fenerbahçe bir sezonda en fazla kaç puan almıştır?",
+      "answers": [
+        "93 puan",
+        "100 puan",
+        "69 puan",
+        "29 puan"
+      ]
+    },
+    {
+      "id": "42",
+      "question": "Fenerbahçenin en farklı lig mağlubiyeti 14 Şubat 2009'da 7-0 olarak, hangi takımı yenmiştir?",
+      "answers": [
+        "Haccettepe",
+        "Karabükspor",
+        "Galatasaray",
+        "Bursaspor"
+      ]
+    },
+    {
+      "id": "43",
+      "question": "Fenerbahçe 1980-81 sezonda oynanan 30 maçtan, kaç puan almıştır?",
+      "answers": [
+        "29 puan",
+        "30 puan",
+        "49 puan",
+        "14 puan"
+      ]
+    },
+    {
+      "id": "44",
+      "question": "Fenerbahçe hangi sezonda hiç gol yemeden şampiyon olarak bir dünya rekoru kırmıştır?",
+      "answers": [
+        "1922-23",
+        "1907-1908",
+        "1956-57",
+        "1993-94"
+      ]
+    },
+    {
+      "id": "45",
+      "question": "Galatasaray tarihinde en golcü futbolcu kimdir?",
+      "answers": [
+        "Metin Oktay",
+        "Hakan Şükür",
+        "Arif Erdem",
+        "Gündüz Kılıç"
+      ]
+    },
+    {
+      "id": "46",
+      "question": "Galatasaray tarihinde 2. en çok forma kiyen kimdir?",
+      "answers": [
+        "Hakan Şükür",
+        "Bülent Korkmaz",
+        "Cüneyt Tanmam",
+        "Fatih Terim"
+      ]
+    },
+    {
+      "id": "47",
+      "question": "Galatasaray'ın en golcü yabancı futbolcusu, hangi oyuncudur? ",
+      "answers": [
+        "Gheorghe Hagi",
+        "Tarik Hodžić",
+        "Younès Belhanda",
+        "Mário Jardel de Almeida Ribeiro"
+      ]
+    },
+    {
+      "id": "48",
+      "question": "Beşiktaş'ın Süper lig tarihinde en çok maça çıkan teknik direktörü kimdir?",
+      "answers": [
+        "Gordon Milne",
+        "Şenol Güneş",
+        "Christoph Daum",
+        "Mircea Lucescu"
+      ]
+    },
+    {
+      "id": "49",
+      "question": "Beşiktaş'ın 1962-1968 sezon aralarında kaptanlığı, hangi oyuncudur?",
+      "answers": [
+        "Necmi Mutlu",
+        "Zekeriya Alp",
+        "Rasim Kara",
+        "Nazmi Bilge"
+      ]
+    },
+    {
+      "id": "50",
+      "question": "Beşiktaş, dünyanın en yükses ses seviyeli maç rekorunu kırdı. 2007-08 sezonunda Liverpool'la oynayan maçtaki, ses seviyesi kaçtır?",
+      "answers": [
+        "132 dB",
+        "145 dB",
+        "120 dB",
+        "160 dB"
+      ]
+    }
+  ]
+}
